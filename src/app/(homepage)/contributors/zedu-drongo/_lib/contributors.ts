@@ -46,7 +46,7 @@ export const zeduDrongoContributors: Contributor[] = [
   { name: "UTIBE BASSEY", username: "ragnar" },
   { name: "Abass Adejoke salma", username: "Adejoke Salma" },
   { name: "Paul Dirisu", username: "padolabs" },
-  { name: "Obiekwe Rita", username: "Rixbyte" },
+  { name: "Rita Obiekwe", username: "Rixbyte" },
   { name: "Obasola Eniola", username: "Eniola Obasola" },
   { name: "Doris King-Paul", username: "Mochasset" },
   { name: "Victor Oluwayemi", username: "Victor.OL" },
